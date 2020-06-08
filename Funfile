@@ -1,0 +1,4 @@
+RUNTIME nodejs10
+RUN npm install mysql
+RUN npm install node-uuid
+RUN npm install md5-node
